@@ -1,9 +1,9 @@
 /*
 Hyperfusion AOD Wake Service
-License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-You may use, share, and adapt this code for personal, educational, or non-commercial purposes only.
-Commercial use, selling, or charging is strictly prohibited.
-Full license: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+You may use and share this code for personal, educational, or non-commercial purposes only.
+Commercial use, selling, charging, modification, or redistribution of modified versions is strictly prohibited.
+Full license: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt
 */
 
 package main
