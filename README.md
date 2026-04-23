@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Rust-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%28Root%29-green.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 本仓库开源了一个基于 Rust 编写的高性能 Android 底层硬件级自动化调度框架。
 
